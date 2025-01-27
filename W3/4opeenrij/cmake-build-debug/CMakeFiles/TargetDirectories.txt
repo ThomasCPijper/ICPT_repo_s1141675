@@ -1,0 +1,3 @@
+C:/Users/56tho/Desktop/Hogeschool Leiden/Informatica jaar 3/ICPT/CodeRepo/W3/4opeenrij/cmake-build-debug/CMakeFiles/Opdracht3_v2.dir
+C:/Users/56tho/Desktop/Hogeschool Leiden/Informatica jaar 3/ICPT/CodeRepo/W3/4opeenrij/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/56tho/Desktop/Hogeschool Leiden/Informatica jaar 3/ICPT/CodeRepo/W3/4opeenrij/cmake-build-debug/CMakeFiles/rebuild_cache.dir

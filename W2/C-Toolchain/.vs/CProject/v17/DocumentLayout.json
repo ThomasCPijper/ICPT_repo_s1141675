@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\56tho\\Desktop\\Hogeschool Leiden\\Informatica jaar 3\\ICPT\\CProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEF3C32-DE00-4AC3-89FE-650A29CF9E32}|CProject\\CProject.vcxproj|C:\\Users\\56tho\\Desktop\\Hogeschool Leiden\\Informatica jaar 3\\ICPT\\CProject\\CProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BEF3C32-DE00-4AC3-89FE-650A29CF9E32}|CProject\\CProject.vcxproj|solutionrelative:CProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\56tho\\Desktop\\Hogeschool Leiden\\Informatica jaar 3\\ICPT\\CProject\\CProject\\main.c",
+              "RelativeDocumentMoniker": "CProject\\main.c",
+              "ToolTip": "C:\\Users\\56tho\\Desktop\\Hogeschool Leiden\\Informatica jaar 3\\ICPT\\CProject\\CProject\\main.c",
+              "RelativeToolTip": "CProject\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T21:33:16.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

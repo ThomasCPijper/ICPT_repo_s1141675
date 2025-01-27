@@ -1,0 +1,8 @@
+﻿  CProject.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\yvals_core.h(23,1): error C1189: #error:  error STL1003: Unexpected compiler, expected C++ compiler.
+  (compiling source file 'CProject.cpp')
+  
+  main.c
+C:\Users\56tho\Desktop\Hogeschool Leiden\Informatica jaar 3\ICPT\CProject\CProject\main.c(21,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\56tho\Desktop\Hogeschool Leiden\Informatica jaar 3\ICPT\CProject\CProject\main.c(22,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
